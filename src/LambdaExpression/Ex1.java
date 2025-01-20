@@ -1,6 +1,6 @@
 package LambdaExpression;
 
-
+// (interfaces with exactly one abstract method, such as Runnable or Comparator)
 interface Summation{
     int add(int a, int b);
 }
